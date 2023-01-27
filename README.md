@@ -31,4 +31,7 @@
 >**\MIRUTA\shop-example\mochawesome-report\mochawesome.html**, copiar y pegarlo en la barra del navegador 
 
 ![Generar reporte visual](mochawesome-report.png)
+
+![Ver reporte visual](report visual.png.png)
+
 8° **FIN**
