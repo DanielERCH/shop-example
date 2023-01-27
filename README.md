@@ -20,7 +20,7 @@
 
 	>npm run report
 	
-![logo de mi proyecto](report.png)
+![Generar reporte](report.png)
 
 >Podrás ejecutar npm run delete:results para eliminar los reportes (archivos) creados anteriormente esto para evitar cualquier error.
 
@@ -30,4 +30,5 @@
 >En la terminal te mostrará una ruta parecida a :
 >**\MIRUTA\shop-example\mochawesome-report\mochawesome.html**, copiar y pegarlo en la barra del navegador 
 
+![Generar reporte visual](mochawesome-report.png)
 8° **FIN**
