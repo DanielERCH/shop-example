@@ -26,6 +26,6 @@
 
 	>npm run mochawesome:report
 >En la terminal te mostrará una ruta parecida a :
->**\MIRUTA\api-example\mochawesome-report\mochawesome.html**, copiar y pegarlo en la barra del navegador 
+>**\MIRUTA\shop-example\mochawesome-report\mochawesome.html**, copiar y pegarlo en la barra del navegador 
 
 8° **FIN**
