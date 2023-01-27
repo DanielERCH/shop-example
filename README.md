@@ -19,8 +19,6 @@
 6° Generar los archivos para los reportes: 
 
 	>npm run report
-	
-[enter link description here](https://github.com/DanielERCH/shop-example/blob/main/report.png)
 
 >Podrás ejecutar npm run delete:results para eliminar los reportes (archivos) creados anteriormente esto para evitar cualquier error.
 
