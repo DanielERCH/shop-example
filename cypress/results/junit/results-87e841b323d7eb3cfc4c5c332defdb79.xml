@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="20.534" tests="3" failures="0">
+  <testsuite name="Root Suite" timestamp="2023-01-24T21:56:04" tests="0" file="cypress\e2e\shop\01.pagos.feature" time="0.000" failures="0">
+  </testsuite>
+  <testsuite name="Regresión de todas las pruebas" timestamp="2023-01-24T21:56:04" tests="3" time="20.377" failures="0">
+    <testcase name="Regresión de todas las pruebas CP001 - Dar de alta un usuario" time="4.903" classname="CP001 - Dar de alta un usuario">
+    </testcase>
+    <testcase name="Regresión de todas las pruebas CP002 - Login con el usuario dado de alta" time="4.231" classname="CP002 - Login con el usuario dado de alta">
+    </testcase>
+    <testcase name="Regresión de todas las pruebas CP003 - Comprobar que se agrega un producto al carrito" time="7.386" classname="CP003 - Comprobar que se agrega un producto al carrito">
+    </testcase>
+  </testsuite>
+</testsuites>
