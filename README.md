@@ -19,6 +19,8 @@
 6° Generar los archivos para los reportes: 
 
 	>npm run report
+	
+![logo de mi proyecto](report.png)
 
 >Podrás ejecutar npm run delete:results para eliminar los reportes (archivos) creados anteriormente esto para evitar cualquier error.
 
