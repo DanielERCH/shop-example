@@ -32,6 +32,6 @@
 
 ![Generar reporte visual](mochawesome-report.png)
 
-![Ver reporte visual](report visual.png.png)
+![Ver reporte visual](report-visual.png)
 
 8° **FIN**
